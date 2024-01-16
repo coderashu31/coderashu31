@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderashu31&label=Profile%20views&color=0e75b6&style=flat" alt="coderashu31" /> </p>
 
-- 🌱 I’m currently learning **frameworks: Bootstrap, React JS, Node JS**
+- 🌱 I’m currently learning **frameworks: Tailwind CSS, React JS, Node JS**
 
 - 💬 Ask me about **Front-End Development**
 
