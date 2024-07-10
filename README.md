@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **frameworks: Tailwind CSS, React JS, Node JS**
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **ashishrkl31@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny 😉**
+
 
 <h3 align="left">Connect with me:</h3>
 
